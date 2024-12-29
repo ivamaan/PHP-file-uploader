@@ -35,3 +35,13 @@ Usage
     View the uploaded files and manage them as needed.
 
 This code provides a robust solution for file management with a focus on security and usability.
+
+Support My Work
+
+If you enjoy my work and would like to support me, consider making a donation! Your contributions help keep this project alive and thriving. ✨🙏
+
+Donate via USDT on TRON:
+
+    TXijXLmsQ6dqjh9tHkeSZCkvv53RrUmaVT
+
+Thank you for your support!
