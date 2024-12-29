@@ -1,6 +1,7 @@
 # PHP-file-uploader
 This PHP file uploader is a secure and user-friendly web application that allows users to upload files to a server. It incorporates password protection to ensure that only authorized users can access the file upload functionality. The application supports a variety of file types and includes features for file management, such as listing uploaded files and allowing users to delete them.
-Features
+Features:
+
 
     Password Protection: Users must enter a password to access the file upload section, ensuring secure access.
 
@@ -26,6 +27,7 @@ Installation
     Ensure that the server supports PHP and has write permissions for the uploads/ directory.
     Update the password in the code as needed.
     Access the application via your web browser to start uploading files.
+    Default Password:123456
 
 Usage
 
